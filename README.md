@@ -22,4 +22,4 @@ Journal system web application developed using Django, Python, HTML and Bootstra
 ![ScreenShot](learning_log/screenshots/desktop1.png)
 
 # Responsive design.
-![ScreenShot](learning_log/screenshots/mobile1.png)
+![ScreenShot](learning_log/screenshots/mobile11.png)
