@@ -18,5 +18,8 @@ Journal system web application developed using Django, Python, HTML and Bootstra
 # GUI
 * Easy to use web application GUI.
 * Styled with bootstrap.
-* Responsive design.
 
+![ScreenShot](learning_log/images/desktop.png)
+
+# Responsive design.
+![ScreenShot](learning_log/images/mobile.png)
